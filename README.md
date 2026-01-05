@@ -63,7 +63,7 @@
 
 <h2 align="center">🔥 My GitHub Contributions Summary</h2>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=hardeep928&theme=highcontrast)](https://git.io/streak-stats)
+[![GitHub Streak] https://streak-stats.demolab.com?user=Hardeep928&theme=highcontrast(https://git.io/streak-stats)
 
 
 ---
