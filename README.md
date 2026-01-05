@@ -61,6 +61,17 @@
 
 ---
 
+<h2 align="center">🔥 My GitHub Contributions Summary</h2>
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=hardeep928&theme=highcontrast"
+    alt="GitHub Streak"
+  />
+</p>
+
+---
+
 ## 🎯 What I’m Working On
 
 - 🔹 Strengthening **Full Stack MERN**
