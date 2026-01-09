@@ -2,7 +2,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=hardeep&color=red&style=flat-square)
 
-🎓 **MCA Student | Frontend → Full Stack Developer**  
+🎓 **MCA Graduate | Frontend → Full Stack Developer**  
 💻 Passionate about building scalable web apps with clean UI & solid backend logic  
 🚀 MERN Stack | Always learning | Turning ideas into products
 
