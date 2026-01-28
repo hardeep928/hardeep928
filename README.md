@@ -27,7 +27,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1C?style=flat-square&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-45b8d8?style=flat-square&logo=react&logoColor=white)
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
-![TailwindCSS]([https://img.shields.io/badge/TailwindCSS-CC6699?style=flat-square&logo=sass&logoColor=white](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white))
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Styled Components](https://img.shields.io/badge/Styled--Components-db7092?style=flat-square&logo=styled-components&logoColor=white)
 
 ### ⚙️ Backend
